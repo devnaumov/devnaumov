@@ -1,7 +1,7 @@
 Hi 👋 My name is Alex
 =====================
 
-Web Developer
+Front-End Developer
 -------------
 
 * ✉️  You can contact me at [iamemptyhuh@gmail.com](mailto:iamemptyhuh@gmail.com)
